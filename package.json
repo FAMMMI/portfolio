@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "daisyui": "^2.15.2",
     "file-saver": "^2.0.5",
+    "firebase": "^9.8.2",
     "flowbite": "^1.4.7",
     "flowbite-react": "^0.0.25",
     "react": "^18.1.0",

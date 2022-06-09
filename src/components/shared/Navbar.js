@@ -22,7 +22,7 @@ const Navbar = () => {
 
     const menuItem = <>
 
-        <li className='text-white'> <button onClick={saveFile}>download</button></li>
+        <li className='text-white'> <button onClick={saveFile}>Resume</button></li>
         <li className='text-white'><Link to="/about"> About me</Link></li>
         <li className='text-white'><a href="https://form.jotform.com/221586579772472"><button>Contact me</button></a> </li>
 
@@ -47,9 +47,7 @@ const Navbar = () => {
                         {menuItem}
                     </ul>
                 </div>
-                <div class="navbar-end">
-                    <a class="btn">Get started</a>
-                </div>
+
             </div>
         </div>
     );
